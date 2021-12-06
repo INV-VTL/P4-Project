@@ -20,3 +20,12 @@ This project involved creating two statisical models in order to achieve its goa
 The final CNN model created was able to predict whether a chest X-ray had Pneumonia or not on the training set of images with an accuracy of 100%.  On the testing set of images, the model had an accuracy of about 75%.
 
 ## Repository Structure
+- Visualizations + Images
+- chest_xray
+- grid
+- .gitignore
+- Notebook PDF
+- Notebook IPYNB
+- P4 Presentation
+- Presentation PDF
+- README.
