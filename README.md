@@ -17,7 +17,7 @@ For this project, a dataset from kaggle called Chest X-Ray Images (Pneumonia) wa
 This project involved creating two statisical models in order to achieve its goal in presenting the provider with a means to predict whether a chest X-ray has Pneumonia or not.  The initial model created was a Multi-Layer Perception Model which was then followed by the creation of a Convelutional Neural Network model.  The CNN was then run through a grid search to find the best parameters for the model using talos.
 
 ## Results
-The final CNN model created was able to predict whether a chest X-ray had Pneumonia or not on the training set of images with an accuracy of 100%.  On the testing set of images, the model had an accuracy of about 81%.  We can see this model is overfitted.  In order to reduce overfitting it is suggested to augment the data, add dropout layers, reduce number of layers, or complete L1 / L2 regularization.
+The final CNN model created was able to predict whether a chest X-ray had Pneumonia or not on the training set of images with an accuracy of 100%.  On the testing set of images, the model had an accuracy of about 67%.  On the validation set of images, the model had an accuracy of 81%.  We can see this model is overfitted.  In order to reduce overfitting it is suggested to augment the data, add dropout layers, reduce number of layers, or complete L1 / L2 regularization.
 
 ## Repository Structure
 - Visualizations + Images
