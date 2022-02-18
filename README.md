@@ -1,4 +1,4 @@
-<img src="Images\1.png" alt="drawing" style="width:500px;"/>
+<img src="Images\1.png" alt="A" width="800"/>
 
 # Building an Image Classification Model for Analyzing Chest X-Rays
 
